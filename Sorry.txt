@@ -1,5 +1,5 @@
 
-Sorry der programm ist nicht exact wie Sie des erwaten.
+Sorry der programm ist nicht exact wie Sie es erwaten.
 
 Ich hab irgendwo in der mitte ein Tastenfehler gemacht 
 aber ich hab viel mit Git bash und gitHub gespielt und versteh jetzt viel mehr. 
